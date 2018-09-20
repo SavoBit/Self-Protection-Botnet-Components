@@ -16,7 +16,7 @@ In order to install the C&C Server, check the following requirement before start
 
 In order to successfully execute SELFNET-GUI the following requirement is needed:
 
-* A [LAMP](https://howtoubuntu.org/how-to-install-lamp-on-ubuntu/) (Linux/Ubuntu 14.04 or above, Apache 2.4, MySQL 5.7 and PHP 7), installed by following a traditional installation by default.
+* A [LAMP](https://howtoubuntu.org/how-to-install-lamp-on-ubuntu) (Linux/Ubuntu 14.04 or above, Apache 2.4, MySQL 5.7 and PHP 7), installed by following a traditional installation by default.
 
 After LAMP installation, follow the next steps configuring all the software with this account credential: root/test (name/pass).
 
