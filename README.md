@@ -36,13 +36,15 @@ Objective: Execution of a real or fake/cloned zombie that will be recruited in a
 
 This component will request time to time actions to the C&C Server, based on a frequency number passed by parameter (in seconds). Actions demanded by the C&C will be executed (e.g. an HTTP Flood attack) in case the component is executed as a real zombie; otherwise, actions (cyber-attacks) are ignored.
 
+### Requirements
+
 In order to install the HoneyNet, check the following requirement before starting the installation process.
 
 * Java JRE 8
 
 Copy the [ZombieBot.jar](https://github.com/Selfnet-5G/Self-Protection-Botnet-Components/blob/master/HoneyNet/ZombieBot.jar) application into the home folder.
 
-## Usage
+### Usage
 
 Type one of the following commands to execute the real or fake/cloned zombie:
 
