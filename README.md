@@ -48,9 +48,9 @@ Copy the [ZombieBot.jar](https://github.com/Selfnet-5G/Self-Protection-Botnet-Co
 
 Type one of the following commands to execute the real or fake/cloned zombie:
 
-```Real Zombie: $ java -jar ZombieBot.jar -type zeus -freq 10 -v true <C&C IP address>```
+```Real Zombie: $ java -jar ZombieBot.jar -type zeus -freq <frequency (secs)> -v true <C&C IP address>```
 
-```Cloned Zombie: $ java -jar ZombieBot.jar -type zeus -freq 10 -uid -bot fake <C&C IP address>```
+```Cloned Zombie: $ java -jar ZombieBot.jar -type zeus -freq <frequency (secs)> -uid <real zombie UUID> -bot fake <C&C IP address>```
 
 Additional parameters can be set, which can be seen by running the application directly without parameters:
 
