@@ -1,6 +1,8 @@
 # Self-Protection Botnet Components
 
-This folder contains the code artifacts associated to the SELFNET Self-Protection Use Case, including the implementation of the main parts for starting-up a Zeus-based botnet as well as an actuator capable of mitigating its effects to supply the SELFNET framework with self-protection capabilities against distributed potential cyber-attacks. This folder provides the installation of a Command & Control (C&C) Server making up a given Zeus-based botnet and a Java application that can be executed to recruit real or fake/cloned zombies in the botnet. This Java application can be used to launch real zombies, installed in users' devices (UEs), or as a mitigation strategy to emulate real zombies' behaviour and thus prevent the execution of crippling cyber-attacks.
+This folder contains the code artifacts associated to the SELFNET Self-Protection Use Case, including the implementation of the main parts for starting-up a Zeus-based botnet as well as an actuator capable of mitigating its effects to supply the SELFNET framework with self-protection capabilities against distributed potential cyber-attacks.
+
+This folder provides the installation of a Command & Control (C&C) Server making up a given Zeus-based botnet and a Java application that can be executed to recruit real or fake/cloned zombies in the botnet. This Java application can be used to launch real zombies, installed in users' devices (UEs), or as a mitigation strategy to emulate real zombies' behaviour and thus prevent the execution of crippling cyber-attacks.
 
 ## Installation of the C&C Server
 
